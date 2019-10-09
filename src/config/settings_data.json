@@ -137,7 +137,7 @@
       "newsletter_bg": "",
       "newsletter_popup_image_align": "left",
       "newsletter_popup_title": "Sign up today",
-      "newsletter_popup_text": "<p><\/p>",
+      "newsletter_popup_text": "<p></p>",
       "newsletter_popup_text_align": "center",
       "newsletter_popup_seconds": "0",
       "newsletter_popup_days": "14",
@@ -211,7 +211,7 @@
               "type": "text",
               "settings": {
                 "title": "Title",
-                "content": "<p>Use this text to share information about your brand with your customers.<\/p>",
+                "content": "<p>Use this text to share information about your brand with your customers.</p>",
                 "social_icons_footer": true
               }
             }
@@ -232,9 +232,9 @@
           "type": "image-with-text-overlay",
           "settings": {
             "image": "",
-            "pretext": "<p>Introducing the<\/p>",
+            "pretext": "<p>Introducing the</p>",
             "title": "Turbo Shopify Theme",
-            "subtitle": "<p>From Out of the Sandbox<\/p>",
+            "subtitle": "<p>From Out of the Sandbox</p>",
             "caption_background": false,
             "caption_background_transparency": false,
             "button1": "",
@@ -252,7 +252,7 @@
           "settings": {
             "image": "",
             "title": "Talk about your brand",
-            "content": "<p>Use this text to share information about your brand with your customers.<\/p>\r\n<p>Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>\r\n<p>Describe a product, share announcements, or welcome customers to your store.</p>",
             "button_label": "",
             "button_link": "",
             "text_size": "featured_text",
@@ -268,7 +268,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -278,7 +278,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -288,7 +288,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -298,7 +298,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             }
@@ -353,9 +353,9 @@
               "type": "image",
               "settings": {
                 "image": "",
-                "pretext": "<p>Short text that precedes the headline<\/p>",
+                "pretext": "<p>Short text that precedes the headline</p>",
                 "title": "Your headline here",
-                "subtitle": "<p>This is a short subheading for your slideshow image<\/p>",
+                "subtitle": "<p>This is a short subheading for your slideshow image</p>",
                 "caption_background": false,
                 "caption_background_transparency": false,
                 "button1": "",
@@ -386,7 +386,7 @@
               "settings": {
                 "image": "",
                 "title": "Your headline",
-                "text": "<p>Promotion description appears here.<\/p>",
+                "text": "<p>Promotion description appears here.</p>",
                 "button_label": "View all",
                 "link": ""
               }
@@ -396,7 +396,7 @@
               "settings": {
                 "image": "",
                 "title": "Your headline",
-                "text": "<p>Promotion description appears here.<\/p>",
+                "text": "<p>Promotion description appears here.</p>",
                 "button_label": "View all",
                 "link": ""
               }
@@ -526,7 +526,7 @@
             "display_first_name": false,
             "display_last_name": false,
             "newsletter_title": "Subscribe",
-            "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;<\/p>",
+            "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;</p>",
             "newsletter_section_text_align": "center",
             "image": ""
           }
@@ -568,7 +568,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -582,7 +582,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -596,7 +596,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -770,7 +770,7 @@
       "sale_banner_enabled": true,
       "collection_swatches": false,
       "notify_me_form": true,
-      "notify_me_richtext": "<p>Notify me when this product is available:<\/p>",
+      "notify_me_richtext": "<p>Notify me when this product is available:</p>",
       "product_form_style": "swatches",
       "display_product_quantity": true,
       "limit_quantity": false,
@@ -816,11 +816,11 @@
       "display_first_name": true,
       "display_last_name": true,
       "use_newsletter_border": true,
-      "newsletter_bg": "shopify:\/\/shop_images\/rectangle-10.jpg",
+      "newsletter_bg": "shopify://shop_images/rectangle-10.jpg",
       "image_crop": "none",
       "newsletter_popup_image_align": "left",
       "newsletter_popup_title": "Sign up today",
-      "newsletter_popup_text": "<p>Be the first to know about exciting new designs, special events and much more.<\/p>",
+      "newsletter_popup_text": "<p>Be the first to know about exciting new designs, special events and much more.</p>",
       "newsletter_popup_text_align": "center",
       "popup_button1": "",
       "popup_button1_link": "",
@@ -830,18 +830,18 @@
       "popup_button2_highlight": false,
       "newsletter_popup_seconds": 0,
       "newsletter_popup_days": "0",
-      "twitter_link": "https:\/\/twitter.com\/outofthesandbox",
-      "facebook_link": "https:\/\/facebook.com\/ootsb",
-      "youtube_link": "https:\/\/youtube.com\/user\/outofthesandbox",
+      "twitter_link": "https://twitter.com/outofthesandbox",
+      "facebook_link": "https://facebook.com/ootsb",
+      "youtube_link": "https://youtube.com/user/outofthesandbox",
       "vimeo_link": "",
-      "pinterest_link": "https:\/\/pinterest.com\/shopify",
+      "pinterest_link": "https://pinterest.com/shopify",
       "tumblr_link": "",
-      "instagram_link": "https:\/\/www.instagram.com\/outofthesandboxshopify\/",
+      "instagram_link": "https://www.instagram.com/outofthesandboxshopify/",
       "snapchat_link": "",
       "houzz_link": "",
       "linkedin_link": "",
       "email_link": "",
-      "favicon": "shopify:\/\/shop_images\/dubai-favicon.png",
+      "favicon": "shopify://shop_images/dubai-favicon.png",
       "og_image_fallback": "",
       "disqus_enabled": false,
       "disqus_shortname": "",
@@ -901,7 +901,7 @@
               "type": "text",
               "settings": {
                 "title": "Title",
-                "content": "<p>Use this text to share information about your brand with your customers.<\/p>",
+                "content": "<p>Use this text to share information about your brand with your customers.</p>",
                 "social_icons_footer": true
               }
             }
@@ -922,9 +922,9 @@
           "type": "image-with-text-overlay",
           "settings": {
             "image": "",
-            "pretext": "<p>Introducing the<\/p>",
+            "pretext": "<p>Introducing the</p>",
             "title": "Turbo Shopify Theme",
-            "subtitle": "<p>From Out of the Sandbox<\/p>",
+            "subtitle": "<p>From Out of the Sandbox</p>",
             "caption_background": false,
             "caption_background_transparency": false,
             "button1": "",
@@ -942,7 +942,7 @@
           "settings": {
             "image": "",
             "title": "Talk about your brand",
-            "content": "<p>Use this text to share information about your brand with your customers.<\/p>\r\n<p>Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>\r\n<p>Describe a product, share announcements, or welcome customers to your store.</p>",
             "button_label": "",
             "button_link": "",
             "text_size": "featured_text",
@@ -958,7 +958,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -968,7 +968,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -978,7 +978,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -988,7 +988,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             }
@@ -1043,9 +1043,9 @@
               "type": "image",
               "settings": {
                 "image": "",
-                "pretext": "<p>Short text that precedes the headline<\/p>",
+                "pretext": "<p>Short text that precedes the headline</p>",
                 "title": "Your headline here",
-                "subtitle": "<p>This is a short subheading for your slideshow image<\/p>",
+                "subtitle": "<p>This is a short subheading for your slideshow image</p>",
                 "caption_background": false,
                 "caption_background_transparency": false,
                 "button1": "",
@@ -1076,7 +1076,7 @@
               "settings": {
                 "image": "",
                 "title": "Your headline",
-                "text": "<p>Promotion description appears here.<\/p>",
+                "text": "<p>Promotion description appears here.</p>",
                 "button_label": "View all",
                 "link": ""
               }
@@ -1086,7 +1086,7 @@
               "settings": {
                 "image": "",
                 "title": "Your headline",
-                "text": "<p>Promotion description appears here.<\/p>",
+                "text": "<p>Promotion description appears here.</p>",
                 "button_label": "View all",
                 "link": ""
               }
@@ -1216,7 +1216,7 @@
             "display_first_name": false,
             "display_last_name": false,
             "newsletter_title": "Subscribe",
-            "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;<\/p>",
+            "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;</p>",
             "newsletter_section_text_align": "center",
             "image": ""
           }
@@ -1258,7 +1258,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -1272,7 +1272,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -1286,7 +1286,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -1461,10 +1461,10 @@
       "display_first_name": false,
       "display_last_name": false,
       "use_newsletter_border": false,
-      "newsletter_bg": "shopify:\/\/shop_images\/NL-popup2.jpg",
+      "newsletter_bg": "shopify://shop_images/NL-popup2.jpg",
       "newsletter_popup_image_align": "right",
       "newsletter_popup_title": "Sign Up Today",
-      "newsletter_popup_text": "<p><\/p>",
+      "newsletter_popup_text": "<p></p>",
       "newsletter_popup_text_align": "center",
       "newsletter_popup_seconds": "0",
       "newsletter_popup_days": "7",
@@ -1540,7 +1540,7 @@
               "type": "text",
               "settings": {
                 "title": "Title",
-                "content": "<p>Use this text to share information about your brand with your customers.<\/p>",
+                "content": "<p>Use this text to share information about your brand with your customers.</p>",
                 "social_icons_footer": true
               }
             }
@@ -1561,9 +1561,9 @@
           "type": "image-with-text-overlay",
           "settings": {
             "image": "",
-            "pretext": "<p>Introducing the<\/p>",
+            "pretext": "<p>Introducing the</p>",
             "title": "Turbo Shopify Theme",
-            "subtitle": "<p>From Out of the Sandbox<\/p>",
+            "subtitle": "<p>From Out of the Sandbox</p>",
             "caption_background": false,
             "caption_background_transparency": false,
             "button1": "",
@@ -1581,7 +1581,7 @@
           "settings": {
             "image": "",
             "title": "Talk about your brand",
-            "content": "<p>Use this text to share information about your brand with your customers.<\/p>\r\n<p>Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>\r\n<p>Describe a product, share announcements, or welcome customers to your store.</p>",
             "button_label": "",
             "button_link": "",
             "text_size": "featured_text",
@@ -1597,7 +1597,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -1607,7 +1607,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -1617,7 +1617,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -1627,7 +1627,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             }
@@ -1682,9 +1682,9 @@
               "type": "image",
               "settings": {
                 "image": "",
-                "pretext": "<p>Short text that precedes the headline<\/p>",
+                "pretext": "<p>Short text that precedes the headline</p>",
                 "title": "Your headline here",
-                "subtitle": "<p>This is a short subheading for your slideshow image<\/p>",
+                "subtitle": "<p>This is a short subheading for your slideshow image</p>",
                 "caption_background": false,
                 "caption_background_transparency": false,
                 "button1": "",
@@ -1715,7 +1715,7 @@
               "settings": {
                 "image": "",
                 "title": "Your headline",
-                "text": "<p>Promotion description appears here.<\/p>",
+                "text": "<p>Promotion description appears here.</p>",
                 "button_label": "View all",
                 "link": ""
               }
@@ -1725,7 +1725,7 @@
               "settings": {
                 "image": "",
                 "title": "Your headline",
-                "text": "<p>Promotion description appears here.<\/p>",
+                "text": "<p>Promotion description appears here.</p>",
                 "button_label": "View all",
                 "link": ""
               }
@@ -1855,7 +1855,7 @@
             "display_first_name": false,
             "display_last_name": false,
             "newsletter_title": "Subscribe",
-            "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;<\/p>",
+            "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;</p>",
             "newsletter_section_text_align": "center",
             "image": ""
           }
@@ -1897,7 +1897,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -1911,7 +1911,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -1925,7 +1925,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -2181,7 +2181,7 @@
               "type": "text",
               "settings": {
                 "title": "Title",
-                "content": "<p>Use this text to share information about your brand with your customers.<\/p>",
+                "content": "<p>Use this text to share information about your brand with your customers.</p>",
                 "social_icons_footer": true
               }
             }
@@ -2202,9 +2202,9 @@
           "type": "image-with-text-overlay",
           "settings": {
             "image": "",
-            "pretext": "<p>Introducing the<\/p>",
+            "pretext": "<p>Introducing the</p>",
             "title": "Turbo Shopify Theme",
-            "subtitle": "<p>From Out of the Sandbox<\/p>",
+            "subtitle": "<p>From Out of the Sandbox</p>",
             "caption_background": false,
             "caption_background_transparency": false,
             "button1": "",
@@ -2222,7 +2222,7 @@
           "settings": {
             "image": "",
             "title": "Talk about your brand",
-            "content": "<p>Use this text to share information about your brand with your customers.<\/p>\r\n<p>Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>\r\n<p>Describe a product, share announcements, or welcome customers to your store.</p>",
             "button_label": "",
             "button_link": "",
             "text_size": "featured_text",
@@ -2238,7 +2238,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -2248,7 +2248,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -2258,7 +2258,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -2268,7 +2268,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             }
@@ -2323,9 +2323,9 @@
               "type": "image",
               "settings": {
                 "image": "",
-                "pretext": "<p>Short text that precedes the headline<\/p>",
+                "pretext": "<p>Short text that precedes the headline</p>",
                 "title": "Your headline here",
-                "subtitle": "<p>This is a short subheading for your slideshow image<\/p>",
+                "subtitle": "<p>This is a short subheading for your slideshow image</p>",
                 "caption_background": false,
                 "caption_background_transparency": false,
                 "button1": "",
@@ -2356,7 +2356,7 @@
               "settings": {
                 "image": "",
                 "title": "Your headline",
-                "text": "<p>Promotion description appears here.<\/p>",
+                "text": "<p>Promotion description appears here.</p>",
                 "button_label": "View all",
                 "link": ""
               }
@@ -2366,7 +2366,7 @@
               "settings": {
                 "image": "",
                 "title": "Your headline",
-                "text": "<p>Promotion description appears here.<\/p>",
+                "text": "<p>Promotion description appears here.</p>",
                 "button_label": "View all",
                 "link": ""
               }
@@ -2496,7 +2496,7 @@
             "display_first_name": false,
             "display_last_name": false,
             "newsletter_title": "Subscribe",
-            "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;<\/p>",
+            "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;</p>",
             "newsletter_section_text_align": "center",
             "image": ""
           }
@@ -2538,7 +2538,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -2552,7 +2552,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -2566,7 +2566,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -2829,7 +2829,7 @@
               "type": "text",
               "settings": {
                 "title": "Title",
-                "content": "<p>Use this text to share information about your brand with your customers.<\/p>",
+                "content": "<p>Use this text to share information about your brand with your customers.</p>",
                 "social_icons_footer": true
               }
             }
@@ -2850,9 +2850,9 @@
           "type": "image-with-text-overlay",
           "settings": {
             "image": "",
-            "pretext": "<p>Introducing the<\/p>",
+            "pretext": "<p>Introducing the</p>",
             "title": "Turbo Shopify Theme",
-            "subtitle": "<p>From Out of the Sandbox<\/p>",
+            "subtitle": "<p>From Out of the Sandbox</p>",
             "caption_background": false,
             "caption_background_transparency": false,
             "button1": "",
@@ -2870,7 +2870,7 @@
           "settings": {
             "image": "",
             "title": "Talk about your brand",
-            "content": "<p>Use this text to share information about your brand with your customers.<\/p>\r\n<p>Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>\r\n<p>Describe a product, share announcements, or welcome customers to your store.</p>",
             "button_label": "",
             "button_link": "",
             "text_size": "featured_text",
@@ -2886,7 +2886,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -2896,7 +2896,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -2906,7 +2906,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             },
@@ -2916,7 +2916,7 @@
                 "image": "",
                 "link": "",
                 "title": "Feature",
-                "text": "<p>Promotion description details.<\/p>",
+                "text": "<p>Promotion description details.</p>",
                 "button_label": ""
               }
             }
@@ -2971,9 +2971,9 @@
               "type": "image",
               "settings": {
                 "image": "",
-                "pretext": "<p>Short text that precedes the headline<\/p>",
+                "pretext": "<p>Short text that precedes the headline</p>",
                 "title": "Your headline here",
-                "subtitle": "<p>This is a short subheading for your slideshow image<\/p>",
+                "subtitle": "<p>This is a short subheading for your slideshow image</p>",
                 "caption_background": false,
                 "caption_background_transparency": false,
                 "button1": "",
@@ -3004,7 +3004,7 @@
               "settings": {
                 "image": "",
                 "title": "Your headline",
-                "text": "<p>Promotion description appears here.<\/p>",
+                "text": "<p>Promotion description appears here.</p>",
                 "button_label": "View all",
                 "link": ""
               }
@@ -3014,7 +3014,7 @@
               "settings": {
                 "image": "",
                 "title": "Your headline",
-                "text": "<p>Promotion description appears here.<\/p>",
+                "text": "<p>Promotion description appears here.</p>",
                 "button_label": "View all",
                 "link": ""
               }
@@ -3144,7 +3144,7 @@
             "display_first_name": false,
             "display_last_name": false,
             "newsletter_title": "Subscribe",
-            "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;<\/p>",
+            "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;</p>",
             "newsletter_section_text_align": "center",
             "image": ""
           }
@@ -3186,7 +3186,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -3200,7 +3200,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -3214,7 +3214,7 @@
               "type": "image",
               "settings": {
                 "title": "Customer Testimonial",
-                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+                "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
                 "name": "",
                 "store_name": "",
                 "link": "",
@@ -3389,7 +3389,7 @@
     "align_height": false,
     "collection_height": 200,
     "notify_me_form": true,
-    "notify_me_richtext": "<p>Notify me when this product is available:<\/p>",
+    "notify_me_richtext": "<p>Notify me when this product is available:</p>",
     "product_form_style": "swatches",
     "display_product_quantity": true,
     "limit_quantity": false,
@@ -3440,7 +3440,7 @@
     "image_crop": "none",
     "newsletter_popup_image_align": "left",
     "newsletter_popup_title": "Sign up today",
-    "newsletter_popup_text": "<p><\/p>",
+    "newsletter_popup_text": "<p></p>",
     "newsletter_popup_text_align": "center",
     "popup_button1": "",
     "popup_button1_link": "",
@@ -3535,7 +3535,7 @@
             "type": "text",
             "settings": {
               "title": "Title",
-              "content": "<p>Use this text to share information about your brand with your customers.<\/p>",
+              "content": "<p>Use this text to share information about your brand with your customers.</p>",
               "social_icons_footer": true
             }
           }
@@ -3557,9 +3557,9 @@
         "settings": {
           "wide_display": true,
           "image": "",
-          "pretext": "<p>Introducing the<\/p>",
+          "pretext": "<p>Introducing the</p>",
           "title": "Turbo Shopify Theme",
-          "subtitle": "<p>From Out of the Sandbox<\/p>",
+          "subtitle": "<p>From Out of the Sandbox</p>",
           "caption_background": false,
           "caption_background_transparency": false,
           "button1": "",
@@ -3577,7 +3577,7 @@
         "settings": {
           "image": "",
           "title": "Talk about your brand",
-          "content": "<p>Use this text to share information about your brand with your customers.<\/p>\r\n<p>Describe a product, share announcements, or welcome customers to your store.<\/p>",
+          "content": "<p>Use this text to share information about your brand with your customers.</p>\r\n<p>Describe a product, share announcements, or welcome customers to your store.</p>",
           "button_label": "",
           "button_link": "",
           "text_size": "featured_text",
@@ -3593,7 +3593,7 @@
               "image": "",
               "link": "",
               "title": "Feature",
-              "text": "<p>Promotion description details.<\/p>",
+              "text": "<p>Promotion description details.</p>",
               "button_label": ""
             }
           },
@@ -3603,7 +3603,7 @@
               "image": "",
               "link": "",
               "title": "Feature",
-              "text": "<p>Promotion description details.<\/p>",
+              "text": "<p>Promotion description details.</p>",
               "button_label": ""
             }
           },
@@ -3613,7 +3613,7 @@
               "image": "",
               "link": "",
               "title": "Feature",
-              "text": "<p>Promotion description details.<\/p>",
+              "text": "<p>Promotion description details.</p>",
               "button_label": ""
             }
           },
@@ -3623,7 +3623,7 @@
               "image": "",
               "link": "",
               "title": "Feature",
-              "text": "<p>Promotion description details.<\/p>",
+              "text": "<p>Promotion description details.</p>",
               "button_label": ""
             }
           }
@@ -3680,9 +3680,9 @@
             "type": "image",
             "settings": {
               "image": "",
-              "pretext": "<p>Short text that precedes the headline<\/p>",
+              "pretext": "<p>Short text that precedes the headline</p>",
               "title": "Your headline here",
-              "subtitle": "<p>This is a short subheading for your slideshow image<\/p>",
+              "subtitle": "<p>This is a short subheading for your slideshow image</p>",
               "caption_background": false,
               "caption_background_transparency": false,
               "button1": "",
@@ -3717,7 +3717,7 @@
               "image": "",
               "image_crop": "none",
               "title": "Your headline",
-              "text": "<p>Promotion description appears here.<\/p>",
+              "text": "<p>Promotion description appears here.</p>",
               "button_label": "View all",
               "link": "",
               "bg_color": "",
@@ -3730,7 +3730,7 @@
               "image": "",
               "image_crop": "none",
               "title": "Your headline",
-              "text": "<p>Promotion description appears here.<\/p>",
+              "text": "<p>Promotion description appears here.</p>",
               "button_label": "View all",
               "link": "",
               "bg_color": "",
@@ -3874,7 +3874,7 @@
           "display_first_name": false,
           "display_last_name": false,
           "newsletter_title": "Subscribe",
-          "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;<\/p>",
+          "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;</p>",
           "newsletter_section_text_align": "center",
           "image": ""
         }
@@ -3918,7 +3918,7 @@
             "type": "image",
             "settings": {
               "title": "Customer Testimonial",
-              "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+              "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
               "name": "",
               "store_name": "",
               "link": "",
@@ -3932,7 +3932,7 @@
             "type": "image",
             "settings": {
               "title": "Customer Testimonial",
-              "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+              "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
               "name": "",
               "store_name": "",
               "link": "",
@@ -3946,7 +3946,7 @@
             "type": "image",
             "settings": {
               "title": "Customer Testimonial",
-              "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. <\/p>",
+              "testimonial": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quam enim, fringilla ut purus ut, pretium ullamcorper sem. In sit amet vestibulum tellus. Aenean gravida dolor eget mi bibendum semper. </p>",
               "name": "",
               "store_name": "",
               "link": "",
@@ -3990,7 +3990,7 @@
           "display_first_name": false,
           "display_last_name": false,
           "newsletter_title": "Subscribe",
-          "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
+          "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more …</p>",
           "newsletter_section_text_align": "center",
           "image": ""
         }
