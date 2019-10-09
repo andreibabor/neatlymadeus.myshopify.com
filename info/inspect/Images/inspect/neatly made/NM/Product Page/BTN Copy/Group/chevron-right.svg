@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="16px" viewBox="0 0 8 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>E77CBF96-C676-435A-9D0F-67DF169DD082</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M13.5857864,12.8275862 L8.29289322,18.4855065 C7.90236893,18.9029635 7.90236893,19.579795 8.29289322,19.997252 C8.68341751,20.414709 9.31658249,20.414709 9.70710678,19.997252 L15.7071068,13.5834589 C16.0976311,13.1660019 16.0976311,12.4891704 15.7071068,12.0717134 L9.70710678,5.65792032 C9.31658249,5.24046332 8.68341751,5.24046332 8.29289322,5.65792032 C7.90236893,6.07537732 7.90236893,6.75220885 8.29289322,7.16966585 L13.5857864,12.8275862 Z" id="path-1"></path>
+    </defs>
+    <g id="NM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-Page" transform="translate(-1047.000000, -1891.000000)">
+            <g id="BTN-Copy" transform="translate(842.000000, 1867.000000)">
+                <g id="Group" transform="translate(60.000000, 16.000000)">
+                    <g id="chevron-right" transform="translate(137.000000, 3.275862)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Shape" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

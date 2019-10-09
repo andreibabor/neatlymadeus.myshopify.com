@@ -391,11 +391,32 @@
 
         {% if section.settings.logo_position == "left" or section.settings.menu_position == "block" %}
           {{ logo }}
-          <div class="nav">
+          <div class="nav a">
             <ul class="menu {{ section.settings.menu_alignment }} clearfix">
               {{ menu_left }}
               {{ menu_right }}
+
+
+     {% if shop.customer_accounts_enabled %}
+          {% if customer %}
+            <li>
+              <a href="/account" data-no-instant>{{ customer.name }}</a>
+            </li>
+            <li data-no-instant>
+              {{ 'layout.customer.log_out' | t | customer_logout_link }}
+            </li>
+          {% else %}
+            <li data-no-instant>
+              {{ 'layout.customer.log_in' | t | customer_login_link }}
+            </li>
+          {% endif %}
+        {% endif %}
+              
             </ul>
+
+
+
+
           </div>
         {% else %}
           <div class="nav">
@@ -408,6 +429,7 @@
             <ul class="menu {% if section.settings.menu_alignment == 'align_left' %}align_right{% elsif section.settings.menu_alignment == 'align_right' %}align_left{% else %}{{ section.settings.menu_alignment }}{% endif %} clearfix">
               {{ menu_right }}
             </ul>
+
           </div>
         {% endif %}
         {% if section.settings.search_enabled %}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>8A65AEF1-F631-4D0D-BEFE-7D6157C6980E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M11.3214887,10 L6.91074435,14.4107443 C6.58530744,14.7361813 6.58530744,15.2638187 6.91074435,15.5892557 C7.23618126,15.9146926 7.76381874,15.9146926 8.08925565,15.5892557 L13.0892557,10.5892557 C13.4146926,10.2638187 13.4146926,9.73618126 13.0892557,9.41074435 L8.08925565,4.41074435 C7.76381874,4.08530744 7.23618126,4.08530744 6.91074435,4.41074435 C6.58530744,4.73618126 6.58530744,5.26381874 6.91074435,5.58925565 L11.3214887,10 Z" id="path-1"></path>
+    </defs>
+    <g id="NM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home" transform="translate(-149.000000, -201.000000)">
+            <g id="BTN" transform="translate(18.000000, 188.000000)">
+                <g id="chevron-right" transform="translate(125.000000, 9.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" fill="#324287" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
