@@ -4,7 +4,7 @@
 - Uses blocks
 {% endcomment %}
 {% if section.settings.frontpage_grid_style == false %}
-<div class="container">
+<div class="container {{section.settings.class_box}}">
   <div class="sixteen columns">
     {% endif %}
 
@@ -21,9 +21,9 @@
           <a {% if block.settings.link != blank %}href="{{ block.settings.link }}"{% endif %} title="{{ block.settings.title }}">
             {% if block.settings.image %}
             {% include 'image-element', image: block.settings.image, alt: block.settings.image.alt, stretch_width: true %}
-            {% else %}
+           {% comment %} {% else %}
             {% capture i %}{% cycle "1", "2", "3", "4", "5", "6" %}{% endcapture %}
-            {{ 'collection-' | append: i | placeholder_svg_tag: 'placeholder-svg placeholder-svg--promotions' }}
+            {{ 'collection-' | append: i | placeholder_svg_tag: 'placeholder-svg placeholder-svg--promotions' }}{% endcomment %}
             {% endif %}
           </a>
         </div>
@@ -129,6 +129,11 @@
   "max_blocks": 16,
   "settings": [
   {
+  "type": "text",
+  "id": "class_box",
+  "label": "Add a class"
+},
+{
   "type": "checkbox",
   "id": "frontpage_grid_style",
   "label": "Wide display"

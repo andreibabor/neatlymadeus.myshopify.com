@@ -1,3 +1,5 @@
+$font-url--google : 'https://fonts.googleapis.com/css?family=Muli:400,700&display=swap';
+
 @font-face{
   font-family:'KeepCalm-Medium';
   src:url(KeepCalm-Medium.ttf) format("truetype");
@@ -6,6 +8,7 @@
 }
 
 $first: 'KeepCalm-Medium', sans-serif;
+$second: 'Muli', sans-serif;
 
 @mixin font($family: $first, $weight: 400, $style: normal, $size: $size, $color: $white) {
   font-family: $family;
@@ -14,9 +17,6 @@ $first: 'KeepCalm-Medium', sans-serif;
   font-size: $size;
   color: $color;
 }
-
-
-
 
 
 .header{
@@ -72,6 +72,188 @@ $first: 'KeepCalm-Medium', sans-serif;
 }
 }
 
+.image-with-text-section{
+  .next{
+    background: url("{{ 'Bitmap.png' | asset_url }}")no-repeat;
+    background-position: top right;
+    background-size: 59%;
+    padding-bottom: 160px;
+    .featured-link--half{
+      background-color: transparent;
+    }
+  }
+  .collection_title{
+    @include font($first, $size:80px, $color:#2491D0); 
+    letter-spacing: initial;
+    line-height: 85px;
+    b{
+      font-weight: normal;
+      color: #253B7B;
+    }
+  }
+  .description{
+    p{
+      @include font($second, $size:24px, $color:#8F8F8F);
+      line-height: 34px;
+    }
+  }
+  .you_deserve{
+    .description{
+      p{
+        line-height: 29px;
+      }
+    }
+  }
+}
 
+.featured-promotions-section{
+  background: #f3f8fd;
+  padding: 100px 0;
+  margin-top: -70px;
 
+  .feature-section{
+    background: #fff;
+    border-radius:10px;
+    height: 480px;
+    .title{
+      @include font($first, $size:18px, $color:#2491D0);
+      letter-spacing:initial;
+      margin-bottom: 8px;
+      margin-top: 28px;
+      b{
+        font-weight: normal;
+        color: #253B7B;
+      }
+    }
+    .feature-style--rounded{
+      padding-top: 33px;
+      img{
+        border-radius:inherit;
+        width: 247px;
+        box-shadow:none;
+      }
+    }
+    .feature-details{
+      display: block;
+      opacity: 1;
+      .description{
+        @include font($second, $size:17px, $color:#282828);
+        margin: 0 24px;
+        line-height: 23px;
+      }
+    }
+  }
 
+  .section-2,
+  .section-3,
+  .section-4 {
+    .title{
+      b{
+        display: block;
+      }
+    }
+
+  }
+  .featured-promotions .feature-section.title-overlay-false:hover .description{
+    color: #282828;
+  }
+  .button{
+    margin-top: 75px;
+    min-height:initial;
+    height: initial;
+    padding: 16px 45px;
+    background-color: #2491D0;
+    border-color:#2491D0;
+    border-radius: 48.5px;
+    outline:0;
+    letter-spacing: initial;
+
+    a{
+      @include font($first, $size:20px, $color:#fff); 
+      outline:0;
+      svg{
+        margin-left: 15px;
+        position: relative;
+        top: 3px;
+      }
+    }
+  }
+}
+
+.text-columns-with-images-section{
+  padding: 80px 0;
+  .title{
+    @include font($first, $size:80px, $color:#2491D0);
+    letter-spacing:initial;
+    margin-bottom: 23px;
+    margin-top: 0;
+    line-height: 85px;
+    text-shadow: none;
+    b{
+      font-weight: normal;
+      color: #253B7B;
+    }
+  }
+  .description{
+    @include font($second, $size:24px, $color:#8F8F8F);
+    margin: 0 21%;
+    line-height: 34px;
+    margin-bottom: 80px;
+  }
+  .medium-down--one-half{
+    margin-left: 0;
+    margin-right: 0;
+    width: 25%;
+    margin-bottom: 0;
+    .regular_text{
+      @include font($first, $size:22px, $color:#253B7B);
+      letter-spacing:initial;
+      text-shadow: none;
+      margin: 0;
+      text-transform: initial;
+    }
+
+    .border-style--none{
+      border-bottom: 1px solid #b8b8b8;
+      padding-bottom: 15px;
+      padding-top: 15px;
+    }
+  }
+  .box-1,
+  .box-2,
+  .box-3,
+  .box-4{
+    .subtitle_text{
+      @include font($second, $weight: 700, $size:24px, $color:#253B7B);
+      letter-spacing:initial;
+      text-shadow: none;
+      margin: 0;
+      text-transform: initial;
+    }
+    .border-style--none:last-child{
+      border-bottom: none;
+    }
+  }
+  .box-2,
+  .box-4{
+    .subtitle_text{
+      color: #8F8F8F;
+      font-weight: 400;
+    }
+  }
+  .box-3{
+    background: #2A3A7A;
+    .regular_text,
+    .subtitle_text{
+      color: #fff;
+      font-weight: 400;
+      padding-left: 40px;
+    }
+  }
+  .box-4{
+   .regular_text,
+   .subtitle_text{
+    padding-left: 40px;
+  }
+}
+}
